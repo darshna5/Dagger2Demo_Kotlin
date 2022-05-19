@@ -1,0 +1,7 @@
+#Thu May 19 15:07:08 IST 2022
+base.1=/home/imdarshna/Downloads/Dagger_Retrofit_Kotlin-main/Dagger2Demo_Kotlin/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/home/imdarshna/Downloads/Dagger_Retrofit_Kotlin-main/Dagger2Demo_Kotlin/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

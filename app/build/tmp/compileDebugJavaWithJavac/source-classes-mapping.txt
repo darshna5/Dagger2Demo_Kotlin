@@ -1,0 +1,18 @@
+com/demo/dagger2demo_kotlin/dim/UserRepository_Factory.java
+ com.demo.dagger2demo_kotlin.dim.UserRepository_Factory
+com/demo/dagger2demo_kotlin/BuildConfig.java
+ com.demo.dagger2demo_kotlin.BuildConfig
+com/demo/dagger2demo_kotlin/di/RetroModule_GetRetroServiceInterfaceFactory.java
+ com.demo.dagger2demo_kotlin.di.RetroModule_GetRetroServiceInterfaceFactory
+com/demo/dagger2demo_kotlin/di/RetroModule_GetRetroFitInstanceFactory.java
+ com.demo.dagger2demo_kotlin.di.RetroModule_GetRetroFitInstanceFactory
+com/demo/dagger2demo_kotlin/di/viewmodel/MainActivityViewModel_MembersInjector.java
+ com.demo.dagger2demo_kotlin.di.viewmodel.MainActivityViewModel_MembersInjector
+com/demo/dagger2demo_kotlin/di/viewmodel/ParallelCallCoroutineViewModel_MembersInjector.java
+ com.demo.dagger2demo_kotlin.di.viewmodel.ParallelCallCoroutineViewModel_MembersInjector
+com/demo/dagger2demo_kotlin/di/DaggerRetroComponent.java
+ com.demo.dagger2demo_kotlin.di.DaggerRetroComponent
+ com.demo.dagger2demo_kotlin.di.DaggerRetroComponent$1
+ com.demo.dagger2demo_kotlin.di.DaggerRetroComponent$Builder
+com/demo/dagger2demo_kotlin/di/viewmodel/UserViewModel_MembersInjector.java
+ com.demo.dagger2demo_kotlin.di.viewmodel.UserViewModel_MembersInjector
